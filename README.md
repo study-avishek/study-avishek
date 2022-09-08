@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
 <h1 align="center">Hi 👋, I'm Avishek Chatterjee</h1>
 <h3 align="center">A passionate Android developer from Jadavpur University, India. I am looking for SDE roles in good product-based companies from where I can start my professional journey.</h3>
 
