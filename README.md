@@ -1,11 +1,11 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Avishek Chatterjee</h1>
-<h3 align="center">A passionate Android developer from Jadavpur University, India. I am looking for SDE roles in good product-based companies from where I can start my professional journey.</h3>
+<h3 align="center">A passionate Android developer from Jadavpur University, India. I am currently in my final year of engineering and I am placed as an SDE-1(backend) at Increff, Bangalore.</h3>
 
-- 🔭 I’m currently working on [Android Quiz app](https://github.com/study-avishek/quizApp)
+- 🔭 I’m currently working on [Front End Mentor Challenges](https://www.frontendmentor.io)
 
-- 🌱 I’m currently learning **Full-stack Android Development**
+- 🌱 I’m currently learning **Full-stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/study-avishek](https://github.com/study-avishek)
 
