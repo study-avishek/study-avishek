@@ -1,7 +1,7 @@
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Avishek Chatterjee</h1>
-<h3 align="center">A passionate Android developer from Jadavpur University, India. I am currently in my final year of engineering and I am placed as an SDE-1(backend) at Increff, Bangalore.</h3>
+<h3 align="center">A passionate Android developer from Jadavpur University, India. I am currently in my final year of engineering.</h3>
 
 - 🔭 I’m currently working on [Front End Mentor Challenges](https://www.frontendmentor.io)
 
